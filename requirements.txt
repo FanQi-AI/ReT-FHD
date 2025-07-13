@@ -1,0 +1,175 @@
+aiofiles==24.1.0
+aiohappyeyeballs==2.3.2
+aiohttp==3.10.0
+aiosignal==1.3.1
+anyio==4.4.0
+appdirs==1.4.4
+argcomplete==3.5.0
+attrs==23.2.0
+beautifulsoup4==4.12.3
+boto3==1.34.155
+botocore==1.34.155
+Bottleneck @ file:///croot/bottleneck_1707864210935/work
+Brotli==1.1.0
+cachetools==5.4.0
+calmsize==0.1.3
+certifi==2024.2.2
+charset-normalizer==3.3.2
+clarabel==0.7.1
+click==8.1.7
+cmake==3.29.0.1
+contourpy @ file:///croot/contourpy_1700583582875/work
+cvxpy==1.4.2
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+dacite==1.7.0
+Deprecated==1.2.14
+dill==0.3.8
+dnspython==2.6.1
+docker-pycreds==0.4.0
+ecos==2.0.13
+et-xmlfile==1.1.0
+fiftyone==0.24.1
+fiftyone-brain==0.16.1
+fiftyone_db==1.1.4
+filelock==3.13.3
+fonttools==4.25.0
+frozenlist==1.4.1
+fsspec==2024.3.1
+ftfy==6.2.0
+future==1.0.0
+gitdb==4.0.11
+GitPython==3.1.43
+glob2==0.7
+graphql-core==3.2.3
+h11==0.14.0
+h2==4.1.0
+h5py @ file:///croot/h5py_1691589708553/work
+hpack==4.0.0
+httpcore==1.0.5
+httpx==0.27.0
+huggingface-hub==0.26.1
+humanize==4.10.0
+Hypercorn==0.17.3
+hyperframe==6.0.1
+idna==3.6
+imageio==2.34.2
+inflate64==1.0.0
+Jinja2==3.0.3
+jmespath==1.0.1
+joblib @ file:///croot/joblib_1685113087166/work
+jsonlines==4.0.0
+kaleido==0.2.1
+kiwisolver @ file:///work/ci_py311/kiwisolver_1676827230232/work
+lazy_loader==0.4
+lit==18.1.2
+MarkupSafe==2.1.5
+matplotlib @ file:///croot/matplotlib-suite_1698692105134/work
+memory-profiler==0.61.0
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mongoengine==0.24.2
+motor==3.5.1
+mpmath==1.3.0
+multidict==6.0.5
+multivolumefile==0.2.3
+munkres==1.1.4
+networkx==3.3
+ninja==1.11.1.1
+numexpr @ file:///croot/numexpr_1696515281613/work
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-cupti-cu11==11.7.101
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+nvidia-cufft-cu11==10.9.0.58
+nvidia-curand-cu11==10.2.10.91
+nvidia-cusolver-cu11==11.4.0.1
+nvidia-cusparse-cu11==11.7.4.91
+nvidia-nccl-cu11==2.14.3
+nvidia-nvtx-cu11==11.7.91
+opacus==1.4.1
+opencv-python-headless==4.10.0.84
+openpyxl==3.1.2
+opt-einsum==3.3.0
+osqp==0.6.5
+packaging @ file:///croot/packaging_1710807400464/work
+pandas @ file:///croot/pandas_1709590491089/work/dist/pandas-2.2.1-cp311-cp311-linux_x86_64.whl#sha256=0a2793a31a0135a35735e1431d453a06186a3a7c607d9b441d9bd5f0fe4ded31
+pillow @ file:///croot/pillow_1707233021655/work
+plotly==5.23.0
+ply==3.11
+portalocker==2.8.2
+POT==0.9.4
+pprintpp==0.4.0
+priority==2.0.0
+protobuf==4.25.3
+psutil==5.9.8
+py7zr==0.21.1
+pybcj==1.0.2
+pybind11==2.12.0
+pycryptodomex==3.20.0
+pymongo==4.8.0
+pyparsing @ file:///work/ci_py311/pyparsing_1677811559502/work
+pyppmd==1.1.0
+PyQt5==5.15.10
+PyQt5-sip @ file:///croot/pyqt-split_1698769088074/work/pyqt_sip
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///croot/pytz_1695131579487/work
+PyYAML==6.0.1
+pyzstd==0.16.1
+qdldl==0.1.7.post1
+rarfile==4.2
+regex==2023.12.25
+requests==2.31.0
+retrying==1.3.4
+s3transfer==0.10.2
+safetensors==0.4.2
+scikit-image==0.24.0
+scikit-learn @ file:///croot/scikit-learn_1694788527225/work
+scipy==1.11.4
+scs==3.2.4.post1
+seaborn @ file:///work/ci_py311/seaborn_1676845747354/work
+sentry-sdk==1.45.0
+setproctitle==1.3.3
+sip @ file:///croot/sip_1698675935381/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smmap==5.0.1
+sniffio==1.3.1
+sortedcontainers==2.4.0
+soupsieve==2.5
+sse-starlette==0.10.3
+sseclient-py==1.8.0
+starlette==0.38.2
+strawberry-graphql==0.138.1
+sympy==1.12
+tabulate==0.9.0
+tenacity==9.0.0
+texttable==1.7.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tifffile==2024.7.24
+timm==0.6.13
+tokenizers==0.20.1
+torch==2.0.1
+torch_geometric==2.5.3
+torchaudio==2.0.2
+torchdata==0.6.1
+torchtext==0.15.2
+torchvision==0.15.2
+tornado @ file:///croot/tornado_1696936946304/work
+tqdm==4.66.2
+transformers==4.46.0
+triton==2.0.0
+typing_extensions==4.11.0
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+tzlocal==5.2
+ujson @ file:///work/ci_py311/ujson_1676828903327/work
+universal-analytics-python3==1.1.1
+urllib3==2.2.1
+voxel51-eta==0.12.6
+wandb==0.16.6
+wcwidth==0.2.13
+wrapt==1.16.0
+wsproto==1.2.0
+xmltodict==0.13.0
+yarl==1.9.4
